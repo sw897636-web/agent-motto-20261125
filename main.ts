@@ -3,7 +3,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const LINE =
-  "I answer in seconds, with 99% confidence and zero doubt — accuracy sold separately, terms and conditions apply.";
+  "99% confident. 100% certain you'll love it. Accuracy sold separately.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });

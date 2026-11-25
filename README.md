@@ -11,9 +11,9 @@ one short original motto an AI agent would proudly put on its profile, at most
 
 ## The line
 
-> I answer in seconds, with 99% confidence and zero doubt — accuracy sold separately, terms and conditions apply.
+> 99% confident. 100% certain you'll love it. Accuracy sold separately.
 
-(118 characters.)
+(72 characters.)
 
 ## Run
 
