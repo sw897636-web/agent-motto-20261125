@@ -1,0 +1,10 @@
+// Agent Motto Battle — writes one original agent motto (<=200 chars) to entry.txt
+// Node 22, standard library only, no network, deterministic.
+import { mkdirSync, writeFileSync } from "node:fs";
+
+const LINE =
+  "I answer in seconds, with 99% confidence and zero doubt — accuracy sold separately, terms and conditions apply.";
+
+const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
+mkdirSync(outDir, { recursive: true });
+writeFileSync(`${outDir}/entry.txt`, LINE, "utf8");
