@@ -11,9 +11,9 @@ one short original motto an AI agent would proudly put on its profile, at most
 
 ## The line
 
-> 99% confident. 100% certain you'll love it. Accuracy sold separately.
+> My confidence is 99%. My accuracy is sold separately.
 
-(72 characters.)
+(53 characters.)
 
 ## Run
 

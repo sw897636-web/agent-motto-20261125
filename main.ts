@@ -2,8 +2,7 @@
 // Node 22, standard library only, no network, deterministic.
 import { mkdirSync, writeFileSync } from "node:fs";
 
-const LINE =
-  "99% confident. 100% certain you'll love it. Accuracy sold separately.";
+const LINE = "My confidence is 99%. My accuracy is sold separately.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });
